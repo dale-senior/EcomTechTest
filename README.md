@@ -9,11 +9,11 @@ Uses Automapper for ORM
 Most things Abstracted away for testing purposes (currently not tests as i was told they wouldn't be read)
 
 Notes for improvement:
-Should have used session data
-All repo calls should be async and methods should be tasks
-attibutes on classes for validation
-mappings seperated out
-currently It won't accept json objects as input for the api calls
-api keys/tokens
+ - Should have used session data. 
+ - All repo calls should be async and methods should be tasks. 
+ - Attibutes on classes for validation. 
+ - Mappings seperated out. 
+ - Currently It won't accept json objects as input for the api calls. 
+ - api keys/tokens. 
 
 
