@@ -15,5 +15,6 @@ Notes for improvement:
  - Mappings seperated out. 
  - Currently It won't accept json objects as input for the api calls. 
  - api keys/tokens. 
+ - git branches should be seperated into develop and master 
 
 
