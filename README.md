@@ -16,5 +16,6 @@ Notes for improvement:
  - Currently It won't accept json objects as input for the api calls. 
  - api keys/tokens. 
  - git branches should be seperated into develop and master 
+ - make more use of the logger, using serilog or something similar
 
 
